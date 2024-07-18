@@ -6,6 +6,10 @@
 > `Topics Covered` : Introduction to Java - <mark>Architecture</mark> & <mark>Installation</mark>
 >  - [x] How java code Executes.
 >  - [x] JDK , JRE , JVT AND JIT .
+>  - [x] Downloaded JDK and IntelliJ Idea .
+
 > `resources` : https://youtu.be/4EP8YzcN0hQ?si=0V8EAv6Eh408epO-
+
 > `Next Step` : First Java Program - Input/Output, Debugging and Datatypes
 
+# Day 2    `19th July 2024`
