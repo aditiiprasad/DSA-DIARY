@@ -1,5 +1,5 @@
 <p>
- <img src="https://capsule-render.vercel.app/api?type=egg&height=150&color=0:069422,100:ecf542&text=DSA%20DIARY&fontAlign=48&fontAlignY=45&section=header&reversal=true&fontColor=033d13&stroke=0a6b06&strokeWidth=2&desc=-%20Aditi&descAlignY=75&descAlign=49&fontSize=60"/>
+ <img src="https://capsule-render.vercel.app/api?type=egg&height=150&color=0:069422,100:ecf542&text=DSA%20DIARY&fontAlign=48&fontAlignY=45&section=header&reversal=true&fontColor=033d13&fontSize=60"/>
 </p>
 
 > Welcome to my DSA Diary GitHub repository! This repository is dedicated to documenting my journey in mastering Data Structures and Algorithms (DSA). Here, you'll find a comprehensive collection of my daily progress, coding exercises, and reflections as I delve deeper into the world of DSA.
