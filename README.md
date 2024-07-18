@@ -13,7 +13,8 @@
 ```
 File where I document my progress in learning Java and Data Structures & Algorithms (DSA). This file serves as a daily record of my journey,
 tracking my milestones, challenges, and   achievements as I dive into the world of Java programming and enhance my problem-solving skills with DSA.
-File contents
+
+File contents-
 1. Daily Logs : Topics covered , Challenges Faced , Resources and Next Steps
 2. Code Solutions
 
