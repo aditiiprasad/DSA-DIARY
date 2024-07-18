@@ -6,7 +6,7 @@
 
 # Sections
 
-- `30 Days Challenge`  :  
+- `30 Days Challenge`  :   <a href="DSA-DIARY\1. 30 Days Challenge"> Open File</a>  
 > 18th July 2024 to 18th August 2024
 
   
