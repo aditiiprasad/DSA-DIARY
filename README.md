@@ -21,6 +21,7 @@ File contents-
   
 ```
 
+<hr>
 <div align="center">
 
 <h2>Coding Profiles</h2>
@@ -77,7 +78,7 @@ File contents-
 
 
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=25&pause=1000&color=069422&random=false&width=435&lines=Thank+you+for+visiting+this+repo+,+It+means+a+lot." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=25&pause=1000&color=069422&random=false&width=435&lines=Thank+you+for+visiting+this+repo" alt="Typing SVG" /></a>
 </div>
 </div>
 
