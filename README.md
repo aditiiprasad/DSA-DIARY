@@ -4,7 +4,7 @@
 
 > Welcome to my DSA Diary GitHub repository! This repository is dedicated to documenting my journey in mastering Data Structures and Algorithms (DSA). Here, you'll find a comprehensive collection of my daily progress, coding exercises, and reflections as I delve deeper into the world of DSA.
 
-# Sections
+# Files
 
 - `30 Days Challenge`  :   <a href="1. 30 Days Challenge"> Open File</a>  
 > 18th July 2024 to 18th August 2024
