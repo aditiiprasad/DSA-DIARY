@@ -15,7 +15,9 @@ File where I document my progress in learning Java and Data Structures & Algorit
 tracking my milestones, challenges, and   achievements as I dive into the world of Java programming and enhance my problem-solving skills with DSA.
   
 ```
-
+<h5>File contents</h5> 
+<p>1. Daily Logs : Topics covered , Challenges Faced , Resources and Next Steps</p>
+<p>2. Code Soln</p>
 
 
 
