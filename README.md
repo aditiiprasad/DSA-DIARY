@@ -6,7 +6,7 @@
 
 # Sections
 
-- `30 Day Challenge`  :  
+- `30 Days Challenge`  :  
 > 18th July 2024 to 18th August 2024
 
   
