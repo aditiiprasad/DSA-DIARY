@@ -4,6 +4,9 @@
 
 # Day 1    `18th July 2024`
 > `Topics Covered` : Introduction to Java - <mark>Architecture</mark> & <mark>Installation</mark>
+   - [x] How java code Executes.
+   - [ ]JDK , JRE , JVT AND JIT 
+                        
 
 > `resources` : https://youtu.be/4EP8YzcN0hQ?si=0V8EAv6Eh408epO-
 
