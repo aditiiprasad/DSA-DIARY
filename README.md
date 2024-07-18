@@ -6,7 +6,7 @@
 
 # Files
 
-- `30 Days Challenge`  :   <a href="1. 30 Days Challenge"> Open File</a>  
+- 1. `30 Days Challenge`  :   <a href="1. 30 Days Challenge"> Open File</a>  
 > 18th July 2024 to 18th August 2024
 
   
@@ -20,7 +20,7 @@ File contents-
 
   
 ```
-- `Leetcode`  :   <a href="2. Leetcode"> Open File</a>
+- 2. `Leetcode`  :   <a href="2. Leetcode"> Open File</a>
 
 ```
 This file contains my solutions to various LeetCode problems. It showcases my problem-solving skills across 
