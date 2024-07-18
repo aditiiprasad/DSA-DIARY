@@ -26,7 +26,9 @@ File contents-
 
 
 ```
-This file contains my solutions to various LeetCode problems. It showcases my problem-solving skills across different topics, including data structures and algorithms. Each solution is written in clean, efficient code, often with comments for clarity.
+This file contains my solutions to various LeetCode problems. It showcases my problem-solving skills across 
+different topics, including data structures and algorithms. Each solution is written in clean, efficient code,
+often with comments for clarity.
 
 ```
 
