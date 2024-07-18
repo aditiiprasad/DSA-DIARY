@@ -22,15 +22,14 @@ File contents-
 ```
 - `Leetcode`  :   <a href="2. Leetcode"> Open File</a>
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="100" height="60" alt="LeetCode Logo" style="border-radius: 10px;" target="_main">](https://leetcode.com/aditiiprasad/) <span style="color:blue"><em>(Click on the logo to head over to my LeetCode profile!)</em></span>
-
-
 ```
 This file contains my solutions to various LeetCode problems. It showcases my problem-solving skills across 
 different topics, including data structures and algorithms. Each solution is written in clean, efficient code,
 often with comments for clarity.
 
 ```
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="100" height="60" alt="LeetCode Logo" style="border-radius: 10px;" target="_main">](https://leetcode.com/aditiiprasad/) <span style="color:blue"><em>(Click on the logo to head over to my LeetCode profile!)</em></span>
 
 
 <hr>
