@@ -3,4 +3,7 @@
 </p>
 
 # Day 1    `18th July 2024`
-> `resources`
+> `Topics Covered` : 
+> `resources` : 
+> `Next Step` : 
+
