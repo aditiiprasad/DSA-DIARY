@@ -13,3 +13,14 @@
 > `Next Step` : First Java Program - Input/Output, Debugging and Datatypes
 
 # Day 2    `19th July 2024`
+> `Topics Covered` : First Java Program - <mark>Input/Output</mark>, <mark>Debugging</mark> and <mark>Datatypes</mark>
+>  - [x] Structure of Java File, Writing First Line of Code (Printing "Hello Word!")
+>  - [x] Converting .java to .class (Byte Code)
+>  - [x] Changing Location of Byte Code
+<!-- >  - [x] Changing Location of Byte Code
+>  - [x] Changing Location of Byte Code
+>  - [x] Changing Location of Byte Code -->
+
+> `resources` : https://youtu.be/TAtrPoaJ7gc?si=Zkutj-h41rRE379Q
+
+> `Next Step` : Conditionals and Loops + Calculator Program
