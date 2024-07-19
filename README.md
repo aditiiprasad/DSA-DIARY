@@ -6,7 +6,7 @@
 
 # Files
 
-- 1. `30 Days Challenge`  :   <a href="1. 30 Days Challenge"> Open File</a>  
+- 1. `30 Days Challenge`  :   <a href="1. 30 Days Challenge/Daily Logs.md"> Daily Logs/a>    <a href="1. 30 Days Challenge/code/">Code</a>
 > 18th July 2024 to 18th August 2024
 
   
