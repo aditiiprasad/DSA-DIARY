@@ -31,6 +31,22 @@ often with comments for clarity.
 
 
 <hr>
+
+# Why this repo
+> Consistency has always been a challenge for me. I've attempted to dive into DSA in the past, but maintaining a
+> steady pace has been difficult. By documenting my progress here, I aim to hold myself accountable and create a 
+> habit of regular practice and learning.This will help me identify patterns, understand my strengths and 
+> weaknesses, and make continuous improvements.
+> Thank you for visiting, and I look forward to sharing this journey with you all!
+> Best,
+> Aditi
+
+
+
+
+
+
+
 <div align="center">
 
 <h2>Coding Profiles</h2>
