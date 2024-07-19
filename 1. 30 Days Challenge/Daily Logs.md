@@ -14,7 +14,7 @@
 
 # Day 2    `19th July 2024`
 > `Topics Covered` : First Java Program - <mark>Input/Output</mark>, <mark>Debugging</mark> and <mark>Datatypes</mark>
->  - [x] Structure of Java File, Writing First Line of Code (Printing "Hello Word!") <a href="1. 30 Days Challenge\code\Main.java">code</a>
+>  - [x] Structure of Java File, Writing First Line of Code (Printing "Hello Word!") <a href="code\Main.java">code</a>
 >  - [x] Converting .java to .class (Byte Code)
 >  - [x] Changing Location of Byte Code
 <!-- >  - [x] Changing Location of Byte Code
