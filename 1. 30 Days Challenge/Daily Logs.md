@@ -24,3 +24,16 @@
 > `resources` : https://youtu.be/TAtrPoaJ7gc?si=Zkutj-h41rRE379Q
 
 > `Next Step` : Conditionals and Loops + Calculator Program
+
+# Day 2    `20th July 2024`
+> `Topics Covered` : Conditionals and Loops + Calculator Program
+<!-- >  - [x] 
+>  - [x]
+>  - [x] 
+<!-- >  - [x] Changing Location of Byte Code
+>  - [x] Changing Location of Byte Code
+>  - [x] Changing Location of Byte Code --> -->
+
+> `resources` : 
+
+> `Next Step` : 
