@@ -17,6 +17,9 @@ public class Inputs
         // instead of comma use '_'
         System.out.println(b);
 
+        float marks = input.nextFloat();
+        System.out.println(marks);
+
     }
 }
 
