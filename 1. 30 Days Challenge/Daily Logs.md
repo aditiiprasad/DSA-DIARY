@@ -31,12 +31,10 @@
 
 # Day 3    `20th July 2024`
 > `Topics Covered` : <mark>Conditionals</mark> and <mark>Loops</mark> + Calculator Program
->  - [x] 
->  - [x]
->  - [x] 
->  - [x] 
->  - [x] 
->  - [x]  
+>  - [x] Conditionals <a href="code/Day 3/src/com/aditi/Conditionals.java">code</a>
+>  - [x] loops : for , while , do while  <a href="code/Day 3/src/com/aditi/loops.java">code</a>
+>  - [x] Solved some questions <a href="code/Day 3/src/com/aditi/Largest.java">Largest Number</a> ,<a href="code/Day 3/src/com/aditi/CaseCheck.java">Case Check</a> , <a href="code/Day 3/src/com/aditi/Fibonacci.java">Fibonacci</a> , <a href="code/Day 3/src/com/aditi/NoOfOccurance.java">No of occurance</a>,<a href="code/Day 3/src/com/aditi/Reverse.java">Reverse</a>.         
+>  - [x] Calculator program <a href="code/Day 3/src/com/aditi/Calculator.java">Calculator</a> 
 
 > `resources` : https://youtu.be/ldYLYRNaucM?si=_kW3MGSII43bqRuQ
 
