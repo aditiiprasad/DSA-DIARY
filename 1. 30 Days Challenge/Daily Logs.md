@@ -17,23 +17,36 @@
 >  - [x] Structure of Java File, Writing First Line of Code (Printing "Hello Word!") <a href="code\Main.java">code</a>
 >  - [x] Converting .java to .class (Byte Code)
 >  - [x] Changing Location of Byte Code
-<!-- >  - [x] Changing Location of Byte Code
->  - [x] Changing Location of Byte Code
->  - [x] Changing Location of Byte Code -->
-
+>  - [x] 
+>  - [x] 
+>  - [x] 
 > `resources` : https://youtu.be/TAtrPoaJ7gc?si=Zkutj-h41rRE379Q
 
 > `Next Step` : Conditionals and Loops + Calculator Program
 
-# Day 2    `20th July 2024`
-> `Topics Covered` : Conditionals and Loops + Calculator Program
-<!-- >  - [x] 
+# Day 3    `20th July 2024`
+> `Topics Covered` : <mark>Conditionals</mark> and <mark>Loops</mark> + Calculator Program
+>  - [x] 
 >  - [x]
 >  - [x] 
-<!-- >  - [x] Changing Location of Byte Code
->  - [x] Changing Location of Byte Code
->  - [x] Changing Location of Byte Code --> -->
+>  - [x] 
+>  - [x] 
+>  - [x]  
 
-> `resources` : 
+> `resources` : https://youtu.be/ldYLYRNaucM?si=_kW3MGSII43bqRuQ
 
-> `Next Step` : 
+> `Next Step` : Switch Statements + Nested Case in Java
+
+# Day 4    `21st July 2024`
+> `Topics Covered` : <mark>Switch</mark> Statements +  <mark>Nested</mark> Case in Java
+
+>  - [x] 
+>  - [x]
+>  - [x] 
+>  - [x] 
+>  - [x] 
+>  - [x]  
+
+> `resources` : https://youtu.be/mA23x39DjbI?si=sfHiS0fRHpIQTmVK
+
+> `Next Step` : Functions / Methods in Java
