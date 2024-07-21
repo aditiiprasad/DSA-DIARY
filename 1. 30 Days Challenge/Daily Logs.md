@@ -17,9 +17,12 @@
 >  - [x] Structure of Java File, Writing First Line of Code (Printing "Hello Word!") <a href="code\Main.java">code</a>
 >  - [x] Converting .java to .class (Byte Code)
 >  - [x] Changing Location of Byte Code
->  - [x] 
->  - [x] 
->  - [x] 
+>  - [x] How to use IntelliJ  <a href="code/first-idea-program/src/Main.java">code</a>
+>  - [x] Primitive Data Types in Java <a href="code/first-idea-program/src/Primitives.java">code</a>
+>  - [x] Outputs and Inputs in Java <a href="code/first-idea-program/src/Inputs.java">inputs</a>
+>  - [x] Sum of two numbers <a href="code/first-idea-program/src/Sum.java">code</a>
+>  - [x] Type Conversion and Casting <a href="code/first-idea-program/src/TypeCasting.java">code</a>
+
 > `resources` : https://youtu.be/TAtrPoaJ7gc?si=Zkutj-h41rRE379Q
 
 > `Next Step` : Conditionals and Loops + Calculator Program
