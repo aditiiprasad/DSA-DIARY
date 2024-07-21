@@ -22,6 +22,8 @@
 >  - [x] Outputs and Inputs in Java <a href="code/first-idea-program/src/Inputs.java">inputs</a>
 >  - [x] Sum of two numbers <a href="code/first-idea-program/src/Sum.java">code</a>
 >  - [x] Type Conversion and Casting <a href="code/first-idea-program/src/TypeCasting.java">code</a>
+>  - [x] Basics of while loops and for loops <a href="code/first-idea-program/src/Basics.java">code</a>
+>  - [x]Temperature Conversion Program <a href="code/first-idea-program/src/Temperature.java">code</a>
 
 > `resources` : https://youtu.be/TAtrPoaJ7gc?si=Zkutj-h41rRE379Q
 
