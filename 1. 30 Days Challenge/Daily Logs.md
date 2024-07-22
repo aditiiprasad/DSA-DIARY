@@ -53,7 +53,7 @@
 > `Topics Covered` : <mark>Functions</mark> / Methods in Java
 >  - [x] Syntax of a Method , Returning Values , Strings. <a href="code/Day 5/src/Sum.java">Sum (10 times)</a>
 
->  - `resources` : https://youtu.be/vvanI8NRlSI?si=z3Rcs3G3AVPIHXNs
+> `resources` : https://youtu.be/vvanI8NRlSI?si=z3Rcs3G3AVPIHXNs
 
->  - `Next Step` : Introduction to Arrays and ArrayList in Java
+> `Next Step` : Introduction to Arrays and ArrayList in Java
 
