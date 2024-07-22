@@ -43,13 +43,12 @@
 # Day 4    `21st July 2024`
 > `Topics Covered` : <mark>Switch</mark> Statements +  <mark>Nested</mark> Case in Java
 
->  - [x] 
->  - [x]
->  - [x] 
->  - [x] 
->  - [x] 
->  - [x]  
-
+>  - [x] Switch <a href="code/Day 4/src/com/aditi/Main.java">Code</a>
+>  - [x] Nested Switch <a href="code/Day 4/src/com/aditi/NestedSwitch.java">Code</a>
+ 
 > `resources` : https://youtu.be/mA23x39DjbI?si=sfHiS0fRHpIQTmVK
 
 > `Next Step` : Functions / Methods in Java
+
+# Day 5    `22nd July 2024`  
+
