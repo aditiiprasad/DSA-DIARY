@@ -42,7 +42,6 @@
 
 # Day 4    `21st July 2024`
 > `Topics Covered` : <mark>Switch</mark> Statements +  <mark>Nested</mark> Case in Java
-
 >  - [x] Switch <a href="code/Day 4/src/com/aditi/Main.java">Code</a>
 >  - [x] Nested Switch <a href="code/Day 4/src/com/aditi/NestedSwitch.java">Code</a>
  
@@ -52,7 +51,6 @@
 
 # Day 5    `22nd July 2024`  
 > `Topics Covered` : <mark>Functions</mark> / Methods in Java
-
 >  - [x] Syntax of a Method , Returning Values , Strings. <a href="code/Day 5/src/Sum.java">Sum (10 times)</a>
 
 >  - `resources` : https://youtu.be/vvanI8NRlSI?si=z3Rcs3G3AVPIHXNs
