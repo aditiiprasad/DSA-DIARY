@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Sum {
-    public static void main(StringEx[] args) {
+    public static void main(String[] args) {
         //without return value
         sum();
         //with return value
