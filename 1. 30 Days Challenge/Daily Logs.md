@@ -51,7 +51,7 @@
 
 # Day 5    `22nd July 2024`  
 > `Topics Covered` : <mark>Functions</mark> / Methods in Java
->  - [x] Syntax of a Method , Returning Values , Strings. <a href="code/Day 5/src/Sum.java">Sum (10 times)</a>
+>  - [x] Syntax of a Method , Returning Values , Strings. <a href="code/Day 5/src/Sum.java">Sum (10 times)</a>,<a href="code/Day 5/src/StringEx.java">Greetings</a>,<a href="code/Day 5/src/Swap.java">Swap 2 numbers</a>.
 
 > `resources` : https://youtu.be/vvanI8NRlSI?si=z3Rcs3G3AVPIHXNs
 
