@@ -61,4 +61,7 @@
 > `Topics Covered` : Introduction to <mark>Arrays</mark> and <mark>ArrayList</mark> in Java
 
 
+> `resources` : https://youtu.be/n60Dn0UsbEk?si=IhhgHxBGX_a12beA
+
+> `Next Step` : Linear Search Algorithm - Theory + Code + Questions
 
