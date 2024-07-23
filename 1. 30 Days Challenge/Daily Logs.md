@@ -57,3 +57,8 @@
 
 > `Next Step` : Introduction to Arrays and ArrayList in Java
 
+# Day 6    `23rd July 2024` 
+> `Topics Covered` : Introduction to <mark>Arrays</mark> and <mark>ArrayList</mark> in Java
+
+
+
