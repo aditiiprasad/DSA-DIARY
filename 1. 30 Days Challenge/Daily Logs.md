@@ -51,7 +51,12 @@
 
 # Day 5    `22nd July 2024`  
 > `Topics Covered` : <mark>Functions</mark> / Methods in Java
->  - [x] Syntax of a Method , Returning Values , Strings. <a href="code/Day 5/src/Sum.java">Sum (10 times)</a>,<a href="code/Day 5/src/StringEx.java">Greetings</a>,<a href="code/Day 5/src/Swap.java">Swap 2 numbers</a>.
+>  - [x] Syntax of a Method , Returning Values , Strings. <a href="code/Day 5/src/Sum.java">Sum (10 times)</a>, <a href="code/Day 5/src/StringEx.java">Greetings</a>, <a href="code/Day 5/src/Swap.java">Swap 2 numbers</a>.
+>  - [x] Scope <a href="code/Day 5/src/Scope.java">what is Scope?</a> 
+>  - [x] Shadowing <a href="code/Day 5/src/Shadowing.java">code</a>
+>  - [x] Variable Arguments <a href="code/Day 5/src/VarArgs.java">code</a>
+>  - [x] Method Overloading <a href="code/Day 5/src/Overloading.java">code</a>
+>  - [x] Questions <a href="code/Day 5/src/ArmstrongNo.java">Armstrong number</a>, <a href="code/Day 5/src/PRIME.java">Prime Number</a>.
 
 > `resources` : https://youtu.be/vvanI8NRlSI?si=z3Rcs3G3AVPIHXNs
 
