@@ -68,5 +68,11 @@
 
 > `resources` : https://youtu.be/n60Dn0UsbEk?si=IhhgHxBGX_a12beA
 
-> `Next Step` : Linear Search Algorithm - Theory + Code + Questions
+> `Next Step` : Linear Search Algorithm 
 
+# Day 7    `24th July 2024` 
+> `Topics Covered` : Linear Search Algorithm 
+
+> `resources` :
+
+> `Next Step` : 
