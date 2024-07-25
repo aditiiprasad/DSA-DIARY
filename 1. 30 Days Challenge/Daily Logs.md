@@ -65,8 +65,10 @@
 # Day 6    `23rd July 2024` 
 > `Topics Covered` : Introduction to <mark>Arrays</mark> and <mark>ArrayList</mark> in Java
 >  - [x] Syntax of an Array <a href="code/Day 6/src/Main.java">code</a>
->  - [x] 
->  - [x] 
+>  - [x] toString() Method  <a href="code/Day 6/src/input.java">code</a> , <a href="code/Day 6/src/PassingFunctions.java">code</a>
+>  - [x] Multidimensional Arrays ,Syntax of a 2D Array <a href="code/Day 6/src/MultidimentionArray.java">code</a>, <a href="code/Day 6/src/ColNoFixed.java">code</a>
+>  - [x] ArrayList <a href="code/Day 6/src/ArrayListExample.java">code</a>
+>  - [x] Questions  <a href="code/Day 6/src/Swap.java">Swap</a> , <a href="code/Day 6/src/Max.java">Maximum</a> , <a href="code/Day 6/src/ReverseNo.java">Reverse Array</a>.
 
 > `resources` : https://youtu.be/n60Dn0UsbEk?si=IhhgHxBGX_a12beA
 
