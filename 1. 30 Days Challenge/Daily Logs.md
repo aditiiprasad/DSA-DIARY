@@ -64,7 +64,9 @@
 
 # Day 6    `23rd July 2024` 
 > `Topics Covered` : Introduction to <mark>Arrays</mark> and <mark>ArrayList</mark> in Java
-
+>  - [x] Syntax of an Array <a href="code/Day 6/src/Main.java">code</a>
+>  - [x] 
+>  - [x] 
 
 > `resources` : https://youtu.be/n60Dn0UsbEk?si=IhhgHxBGX_a12beA
 
@@ -73,6 +75,13 @@
 # Day 7    `24th July 2024` 
 > `Topics Covered` : Linear Search Algorithm 
 
-> `resources` :
+> `resources` : https://youtu.be/_HRA37X8N_Q?si=cCvNh7XY6Pa351xT
 
-> `Next Step` : 
+> `Next Step` : Binary Search Algorithm
+
+# Day 8    `25th July 2024`
+> `Topics Covered` : Binary Search Algorithm
+
+> `resources` : https://youtu.be/f6UU7V3szVw?si=XHsI2VoN5Apt8M9F
+
+> `Next Step` : Binary Search Interview Questions 
