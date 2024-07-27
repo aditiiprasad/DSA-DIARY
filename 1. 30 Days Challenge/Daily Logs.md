@@ -77,7 +77,7 @@
 # Day 7    `24th July 2024` 
 > `Topics Covered` : Linear Search Algorithm 
 >  - [x] Code for Linear Search <a href="code/Day 7/src/Main.java">Code</a>.
->  - [x] Questions <a href="code/Day 7/src/SearchInStrings.java">Search in String</a> , <a href="code/Day 7/src/SearchInRange.java">Search in Range</a> , <a href="code/Day 7/src/SearchInStrings.java">Minimum Number</a> , <a href="code/Day 7/src/SearchInRange.java">Search in 2D Arrays</a> , <a href="code/Day 7/src/SearchInStrings.java"> Even Digits</a> , <a href="code/Day 7/src/SearchInRange.java">Max Wealth</a> .
+>  - [x] Questions <a href="code/Day 7/src/SearchInStrings.java">Search in String</a> , <a href="code/Day 7/src/SearchInRange.java">Search in Range</a> , <a href="code/Day 7/src/MinimumNO.java">Minimum Number</a> , <a href="code/Day 7/src/SearchInRange.java">Search in 2D Arrays</a> , <a href="code/Day 7/src/SearchInStrings.java"> Even Digits</a> , <a href="code/Day 7/src/SearchInRange.java">Max Wealth</a> .
 
 > `resources` : https://youtu.be/_HRA37X8N_Q?si=cCvNh7XY6Pa351xT
 
