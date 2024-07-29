@@ -88,4 +88,32 @@
 
 > `resources` : https://youtu.be/f6UU7V3szVw?si=XHsI2VoN5Apt8M9F
 
-> `Next Step` : Binary Search Interview Questions 
+> `Next Step` : Binary Search Interview Questions
+
+# Day 9    `26th July 2024`
+> `Topics Covered` : Binary Search Interview Questions
+
+> `resources` : https://youtu.be/W9QJ8HaRvJQ?si=urKLvEsSXraNzIYL
+
+> `Next Step` : Binary Search in 2D Arrays
+
+# Day 10    `27th July 2024`
+> `Topics Covered` : Binary Search in 2D Arrays
+
+> `resources` : https://youtu.be/enI_KyGLYPo?si=zNLt90_AtXHDxMm2
+
+> `Next Step` : Bubble Sort Algorithm
+
+# Day 11    `28th July 2024`
+ Got sick🤮,will be back soon.
+
+# Day 12    `29th July 2024`
+ Got sick🤮,will be back soon.
+
+# Day 13    `30th July 2024`
+> `Topics Covered` : Bubble Sort Algorithm
+
+> `resources` : https://youtu.be/F5MZyqRp_IM?si=msamT4_L-jYgCoTh
+
+> `Next Step` : Selection Sort Algorithm
+
