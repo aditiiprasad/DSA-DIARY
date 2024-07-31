@@ -111,11 +111,12 @@
  Got sick🤮,will be back soon.
 
 # Day 13    `30th July 2024`
+ Got sick🤮,will be back soon.
+
+# Day 14    `31st July 2024`
 > `Topics Covered` : Bubble Sort Algorithm
 
 > `resources` : https://youtu.be/F5MZyqRp_IM?si=msamT4_L-jYgCoTh
 
 > `Next Step` : Selection Sort Algorithm
-
-# Day 14    `31st July 2024`
 
