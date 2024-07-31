@@ -18,7 +18,7 @@ File contents-
 1. Daily Logs : Topics covered , Challenges Faced , Resources and Next Steps
 2. Code Solutions
 ```
-- 2. `Leetcode`  :   <a href="2. Leetcode"> Open File</a>
+- 2. `Leetcode`  :   <a href="2. Leetcode/Directory.md"> Question Directory</a> <a href="2. Leetcode/code/"> code</a>
 
 ```
 This file contains my solutions to various LeetCode problems. It showcases my problem-solving skills across 
