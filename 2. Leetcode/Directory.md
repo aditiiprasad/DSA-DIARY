@@ -3,6 +3,7 @@
 </p>
 
 <div align="center">
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/aditiiprasad?theme=dark&font=Noto%20Sans%20Bamum)
 </div>
 
