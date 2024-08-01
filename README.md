@@ -18,7 +18,7 @@ File contents-
 1. Daily Logs : Topics covered , Challenges Faced , Resources and Next Steps
 2. Code Solutions
 ```
-- 2. `Leetcode`  :   <a href="2. Leetcode/Directory.md"> Question Directory</a> <a href="2. Leetcode/code/"> code</a>
+- 2. `Leetcode`  :   <a href="2. Leetcode/Directory.md"> Question Directory</a> , <a href="2. Leetcode/code/"> code</a>
 
 ```
 This file contains my solutions to various LeetCode problems. It showcases my problem-solving skills across 
@@ -51,10 +51,6 @@ often with comments for clarity.
 
 <h2>Coding Profiles</h2>
 <p>
- <a href="https://codolio.com/profile/aditiiprasad">
-  <img src="https://codolio.com/codolio_assets/codolio.svg" alt="codolio" height="50" >
- </a>
- 
  <a href="https://leetcode.com/u/aditiiprasad/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png?20190719232508" alt="leetcode" height="50" >
  </a>
