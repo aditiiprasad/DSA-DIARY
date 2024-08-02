@@ -85,6 +85,10 @@
 
 # Day 8    `25th July 2024`
 > `Topics Covered` : Binary Search Algorithm
+>  - [x] Binary Search Algorithm
+>  - [x] Code for Binary Search <a href="code/Day 8/src/BinarySearch.java">code</a>
+>  - [x] Order-Agnostic Binary Search
+>  - [x] Code for Order-Agnostic Binary Search <a href="code/Day 8/src/OrderAgnosticBS.java">code</a>
 
 > `resources` : https://youtu.be/f6UU7V3szVw?si=XHsI2VoN5Apt8M9F
 
