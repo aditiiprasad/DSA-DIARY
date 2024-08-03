@@ -16,7 +16,7 @@
 
 
 
-<img src="https://img.shields.io/badge/Easy-02f212"> <img src="https://img.shields.io/badge/Medium-e69c09"> <img src="https://img.shields.io/badge/Hard-fc0505"> 
+<!-- <img src="https://img.shields.io/badge/Easy-02f212"> <img src="https://img.shields.io/badge/Medium-e69c09"> <img src="https://img.shields.io/badge/Hard-fc0505">  -->
 <p>
  <img src="https://capsule-render.vercel.app/api?type=egg&height=120&color=0:069422,100:ecf542&fontAlign=48&fontAlignY=45&section=footer&reversal=true&fontColor=033d13&stroke=0a6b06&strokeWidth=2&descAlignY=75&descAlign=49&fontSize=60"/>
 </p>
