@@ -7,7 +7,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/aditiiprasad?theme=dark&font=Noto%20Sans%20Bamum)
 </div>
 
-> `1295` 
+> `1295`  <img src="https://img.shields.io/badge/Easy-02f212"> 
 > Find Numbers with Even Number of Digits. <a href="code/EvenDigits.java">code</a> 
 
 > `1672` 
