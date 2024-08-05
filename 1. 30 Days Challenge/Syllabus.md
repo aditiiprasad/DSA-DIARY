@@ -2,22 +2,22 @@
  <img src="https://capsule-render.vercel.app/api?type=egg&height=120&color=0:069422,100:ecf542&text=Syllabus&fontAlign=48&fontAlignY=45&section=header&reversal=true&fontColor=033d13&fontSize=40"/>
 </p>
 
->  Introduction to Programming
->    `Types of languages`
->    `Memory management`
 
->  Flow of the program
->    `Flowcharts`
->    `Pseudocode`
 
->  Introduction to Java
->    `Introduction`
->    `How it works`
->    `Setup Installation`
->    `Input and Output in Java`
->    `Conditionals & Loops in Java`
-        >  - [x] if-else
-        > loops](https://youtu.be/ldYLYRNaucM?t=440)
+- [Introduction to Programming](https://youtu.be/wn49bJOYAZM)
+    - [Types of languages](https://youtu.be/wn49bJOYAZM?t=171)
+    - [Memory management](https://youtu.be/wn49bJOYAZM?t=1488)
+- [Flow of the program](https://youtu.be/lhELGQAV4gg)
+    - [Flowcharts](https://youtu.be/lhELGQAV4gg)
+    - [Pseudocode](https://youtu.be/lhELGQAV4gg?t=715)
+- [Introduction to Java](https://youtu.be/4EP8YzcN0hQ)
+    - [Introduction](https://youtu.be/4EP8YzcN0hQ)
+    - [How it works](https://youtu.be/4EP8YzcN0hQ?t=93)
+    - [Setup Installation](https://youtu.be/4EP8YzcN0hQ?t=1486)
+    - [Input and Output in Java](https://youtu.be/TAtrPoaJ7gc)
+    - [Conditionals & Loops in Java](https://youtu.be/ldYLYRNaucM?t=88)
+        - [if-else](https://youtu.be/ldYLYRNaucM?t=88)
+        - [loops](https://youtu.be/ldYLYRNaucM?t=440)
         - [Switch statements](https://youtu.be/mA23x39DjbI)
     - [Data-types](https://youtu.be/TAtrPoaJ7gc?t=2800)
     - [Coding best practices](https://youtu.be/waGfV-IoOt8)
