@@ -1,3 +1,25 @@
-public class SubProductSum {
-    
+  
+
+class SubProductSum  {
+
+    public static void main(String[]args){
+      int n =234;
+
+        System.out.println(subtractProductAndSum(n));
+    }
+
+    static int subtractProductAndSum(int n) {
+        int product = 1;
+        int sum = 0;
+
+        while(n>0){
+            int rem =  n%10;
+
+            product=product*rem;
+            sum=sum+rem;
+            n=n/10;
+        }
+        int c = product-sum;
+        return  c;
+    }
 }
