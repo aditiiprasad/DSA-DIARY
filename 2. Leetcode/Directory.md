@@ -7,7 +7,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/aditiiprasad?theme=dark&font=Noto%20Sans%20Bamum)
 </div>
 
-> `1`  <img src="https://img.shields.io/badge/Easy-02f212"> 
+> `1`      <img src="https://img.shields.io/badge/Easy-02f212"> 
 > Two Sum. <a href="code/TwoSum.java">code</a> 
 
 > `1281`  <img src="https://img.shields.io/badge/Easy-02f212"> 
