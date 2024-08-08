@@ -4,9 +4,9 @@
 
 
 
-- [Introduction to Programming](https://youtu.be/wn49bJOYAZM)
-    - [Types of languages](https://youtu.be/wn49bJOYAZM?t=171)
-    - [Memory management](https://youtu.be/wn49bJOYAZM?t=1488)
+- Introduction to Programming
+    Types of languages
+    Memory management
 - [Flow of the program](https://youtu.be/lhELGQAV4gg)
     - [Flowcharts](https://youtu.be/lhELGQAV4gg)
     - [Pseudocode](https://youtu.be/lhELGQAV4gg?t=715)
