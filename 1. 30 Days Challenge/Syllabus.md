@@ -7,9 +7,9 @@
 - Introduction to Programming
     Types of languages
     Memory management
-- [Flow of the program](https://youtu.be/lhELGQAV4gg)
-    - [Flowcharts](https://youtu.be/lhELGQAV4gg)
-    - [Pseudocode](https://youtu.be/lhELGQAV4gg?t=715)
+- Flow of the program
+    - Flowcharts
+    - Pseudocode
 - [Introduction to Java](https://youtu.be/4EP8YzcN0hQ)
     - [Introduction](https://youtu.be/4EP8YzcN0hQ)
     - [How it works](https://youtu.be/4EP8YzcN0hQ?t=93)
