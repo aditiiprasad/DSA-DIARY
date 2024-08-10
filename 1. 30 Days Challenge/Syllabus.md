@@ -24,12 +24,12 @@
 - Functions
     - Introduction
     - Scoping in Java
-    - [Shadowing](https://youtu.be/vvanI8NRlSI?t=3584)
-    - [Variable Length Arguments](https://youtu.be/vvanI8NRlSI?t=4013)
-    - [Overloading](https://youtu.be/vvanI8NRlSI?t=4327)
-- [Arrays](https://youtu.be/n60Dn0UsbEk)
-    - [Introduction](https://youtu.be/n60Dn0UsbEk)
-    - [Memory management](https://youtu.be/n60Dn0UsbEk?t=632)
+    - Shadowing
+    - Variable Length Arguments
+    - Overloading
+- Arrays
+    - Introduction
+    - Memory management
     - [Input and Output](https://youtu.be/n60Dn0UsbEk?t=1675)
     - [ArrayList Introduction](https://youtu.be/n60Dn0UsbEk?t=4868)
     - Searching
