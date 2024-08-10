@@ -9,6 +9,10 @@ public class Ceiling {
     //return the index
     //return -1 if it does not exist
     static int  ceiling(int[] arr, int target){
+        if (target>arr[arr.length-1]){
+            return -1;
+        }
+
         int start = 0;
         int end = arr.length -1;
 

@@ -10,6 +10,9 @@
 > `1`      <img src="https://img.shields.io/badge/Easy-02f212"> 
 > Two Sum. <a href="code/TwoSum.java">code</a> 
 
+> `744`  <img src="https://img.shields.io/badge/Easy-02f212">
+> Find smallest letter greater than target
+
 > `1281`  <img src="https://img.shields.io/badge/Easy-02f212"> 
 > Subtract the product and sum of Digits of an Integer. <a href="code/SubProductSum.java">code</a> 
 
