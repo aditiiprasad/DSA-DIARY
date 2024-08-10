@@ -10,20 +10,20 @@
 - Flow of the program
     - Flowcharts
     - Pseudocode
-- [Introduction to Java](https://youtu.be/4EP8YzcN0hQ)
-    - [Introduction](https://youtu.be/4EP8YzcN0hQ)
-    - [How it works](https://youtu.be/4EP8YzcN0hQ?t=93)
-    - [Setup Installation](https://youtu.be/4EP8YzcN0hQ?t=1486)
-    - [Input and Output in Java](https://youtu.be/TAtrPoaJ7gc)
-    - [Conditionals & Loops in Java](https://youtu.be/ldYLYRNaucM?t=88)
-        - [if-else](https://youtu.be/ldYLYRNaucM?t=88)
-        - [loops](https://youtu.be/ldYLYRNaucM?t=440)
-        - [Switch statements](https://youtu.be/mA23x39DjbI)
-    - [Data-types](https://youtu.be/TAtrPoaJ7gc?t=2800)
-    - [Coding best practices](https://youtu.be/waGfV-IoOt8)
-- [Functions](https://youtu.be/vvanI8NRlSI)
-    - [Introduction](https://youtu.be/vvanI8NRlSI)
-    - [Scoping in Java](https://youtu.be/vvanI8NRlSI?t=2801)
+- Introduction to Java
+    - Introduction
+    - How it works
+    - Setup Installation
+    - Input and Output in Java
+    - Conditionals & Loops in Java
+        - if-else
+        - loops
+        - Switch statements
+    - Data-types
+    - Coding best practices
+- Functions
+    - Introduction
+    - Scoping in Java
     - [Shadowing](https://youtu.be/vvanI8NRlSI?t=3584)
     - [Variable Length Arguments](https://youtu.be/vvanI8NRlSI?t=4013)
     - [Overloading](https://youtu.be/vvanI8NRlSI?t=4327)
