@@ -133,3 +133,25 @@
 <p>
  <img src="https://capsule-render.vercel.app/api?type=egg&height=120&color=0:069422,100:ecf542&fontAlign=48&fontAlignY=45&section=footer&reversal=true&fontColor=033d13&stroke=0a6b06&strokeWidth=2&descAlignY=75&descAlign=49&fontSize=60"/>
 </p>
+
+# Day 16    `2nd August 2024`
+
+# Day 17    `3rd August 2024`
+
+# Day 18    `4th August 2024`
+
+# Day 19    `5th August 2024`
+
+# Day 20    `6th August 2024`
+
+# Day 21    `7th August 2024`
+
+# Day 22    `8th August 2024`
+
+# Day 23    `9th August 2024`
+
+# Day 24    `10th August 2024`
+
+# Day 25    `11th August 2024`
+
+# Day 26    `12th August 2024`
