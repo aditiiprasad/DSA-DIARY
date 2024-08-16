@@ -11,7 +11,10 @@
 > Two Sum. <a href="code/TwoSum.java">code</a> 
 
 > `34` <img src="https://img.shields.io/badge/Medium-e69c09">
-> Find first and last position of element in sorted array . <a href="code/SearchRange.java">code</a> 
+> Find first and last position of element in sorted array . <a href="code/SearchRange.java">code</a>
+
+> `162` <img src="https://img.shields.io/badge/Medium-e69c09">
+> Find peak element. <a href="code/PeakElement.java">code</a>
 
 > `744`  <img src="https://img.shields.io/badge/Easy-02f212">
 > Find smallest letter greater than target <a href="code/NextGreatestLetter.java">code</a> 
@@ -28,8 +31,8 @@
 > `1672`   <img src="https://img.shields.io/badge/Easy-02f212"> 
 > Richest customer wealth. <a href="code/MaxWealth.java">code</a> 
 
-> `1095`   <img src="https://img.shields.io/badge/Hard-fc0505">
-> Find in Mountain Array. <a href="#">code</a> 
+<!-- > `1095`   <img src="https://img.shields.io/badge/Hard-fc0505">
+> Find in Mountain Array. <a href="#">code</a>  -->
 
 
 
