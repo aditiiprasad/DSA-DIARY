@@ -17,7 +17,7 @@
 > Find smallest letter greater than target <a href="code/NextGreatestLetter.java">code</a> 
 
 > `852` <img src="https://img.shields.io/badge/Medium-e69c09">
-> Peak Index in a mountain Array.
+> Peak Index in a mountain Array. <a href="code/Mountain.java">code</a> 
 
 > `1281`  <img src="https://img.shields.io/badge/Easy-02f212"> 
 > Subtract the product and sum of Digits of an Integer. <a href="code/SubProductSum.java">code</a> 

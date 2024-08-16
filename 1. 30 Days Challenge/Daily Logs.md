@@ -97,7 +97,7 @@
 # Day 9    `26th July 2024`
 > `Topics Covered` : Binary Search Interview Questions
 >  - [x] <a href="code/Day 9/src/Floor.java">Floor of a Number</a> , <a href="code/Day 9/src/Ceiling.java">Ceiling of a Number</a>
->  - [x] Leetcode Questions <a href="code/Day 9/src/NextGreatestLetter.java">744</a>  , <a href="code/Day 9/src/SearchRange.java">34</a>
+>  - [x] Leetcode Questions <a href="code/Day 9/src/NextGreatestLetter.java">744</a>  , <a href="code/Day 9/src/SearchRange.java">34</a> , <a href="code/Day 9/src/Mountain.java">852</a> 
 >  - [x] Position of an Element in Infinite Sorted Array <a href="code/Day 9/src/InfiniteArray.java">code</a>
 >  - [x] 
 
