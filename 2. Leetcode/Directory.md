@@ -29,7 +29,7 @@
 > Richest customer wealth. <a href="code/MaxWealth.java">code</a> 
 
 > `1095`   <img src="https://img.shields.io/badge/Hard-fc0505">
-> Find in Mountain Array. <a href="code/MaxWealth.java">code</a> 
+> Find in Mountain Array. <a href="#">code</a> 
 
 
 
