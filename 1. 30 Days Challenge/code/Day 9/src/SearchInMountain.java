@@ -3,14 +3,19 @@ public class SearchInMountain {
 
     }
     int search (int[] arr,int targets){
+        int peak = peakIndexInMountainArray(arr);
+        int firstTry=binarySearch(arr,targets,0,peak);
+        if( firstTry!=-1){
+            return  firstTry;
 
+        }
+        return orderAgnosticBS(arr,targets,peak+1,arr.length-1);
     }
-    static int  binarySearch(int[] arr, int target){
-        int start = 0;
-        int end = arr.length -1;
+    static int  binarySearch(int[] arr, int target,int start,int end){
+
 
         while(start<=end){
-            //find middle element
+
             int mid = start + (end - start)/2;
 
             if (target<arr[mid]){
@@ -30,16 +35,48 @@ public class SearchInMountain {
         while (start<end){
             int mid=start+(end-start)/2;
             if (arr[mid]>arr[mid+1]){
-                //decreasing part of array
-                //this can be the answer but lets look at left
+
                 end=mid;
             }else{
-                //ascending part of array
-                start=mid+1;//because we know that mid+1 is greater than mid
+
+                start=mid+1;
 
             }
         }
-        //in the end start == end and pointing to largest no
+
         return start;
     }
+    static int orderAgnosticBS(int[] arr,int target,int start,int end){
+
+
+        //find whether the array is sorted in ascending or descending
+        boolean isAsc=arr[start]<arr[end];
+
+
+        while(start<=end){
+            int mid=start+(end-start)/2;
+            if(arr[mid]==target){
+                return mid;
+            }
+            //asc
+            else if(isAsc){
+                if (target<arr[mid]){
+                    end=mid-1;
+                }else if(target>arr[mid]){
+                    start=mid+1;
+                }
+            }
+            //des
+            else {
+                if (target>arr[mid]){
+                    end=mid-1;
+                }else if(target<arr[mid]){
+                    start=mid+1;
+                }
+            }
+
+        }
+        return -1;
+    }
+
 }
