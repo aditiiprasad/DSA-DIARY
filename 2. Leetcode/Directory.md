@@ -10,6 +10,9 @@
 > `1`      <img src="https://img.shields.io/badge/Easy-02f212"> 
 > Two Sum. <a href="code/TwoSum.java">code</a> 
 
+> `33` <img src="https://img.shields.io/badge/Medium-e69c09">
+> Search in rotated sorted Array 
+
 > `34` <img src="https://img.shields.io/badge/Medium-e69c09">
 > Find first and last position of element in sorted array . <a href="code/SearchRange.java">code</a>
 
