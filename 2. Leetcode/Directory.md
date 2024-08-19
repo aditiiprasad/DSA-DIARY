@@ -11,7 +11,7 @@
 > Two Sum. <a href="code/TwoSum.java">code</a> 
 
 > `33` <img src="https://img.shields.io/badge/Medium-e69c09">
-> Search in rotated sorted Array 
+> Search in rotated sorted Array <a href="code/RBS.java">code</a> 
 
 > `34` <img src="https://img.shields.io/badge/Medium-e69c09">
 > Find first and last position of element in sorted array . <a href="code/SearchRange.java">code</a>
