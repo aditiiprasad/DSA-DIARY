@@ -129,16 +129,49 @@
 > `Next Step` : Selection Sort Algorithm
 
 # Day 15    `1st August 2024`
+> `Topics Covered` : Selection Sort Algorithm , Insertion Sort Algorithm
+
+> `resources` : https://youtu.be/Nd4SCCIHFWk?si=THyv4wDiZ3RMgXBd , https://youtu.be/By_5-RRqVeE?si=KOgtBkvKqU3ka4pA
+
+> `Next Step` : Cycle Sort 
 
 # Day 16    `2nd August 2024`
+> `Topics Covered` : Cycle Sort 
+
+> `resources` : https://youtu.be/JfinxytTYFQ?si=XUfOypPB2_fmVdaR
+
+> `Next Step` : Strings and StringBuilder in Java
 
 # Day 17    `3rd August 2024`
+> `Topics Covered` : Strings and StringBuilder in Java
+
+> `resources` : https://youtu.be/zL1DPZ0Ovlo?si=tVI8y16pR9kd21rb
+
+> `Next Step` : Tricks
+
 
 # Day 18    `4th August 2024`
+> `Topics Covered` : Tricks
+
+> `resources` : https://youtu.be/lsOOs5J8ycw?si=I8Yl1dp7VcawTPIO
+
+> `Next Step` : Introduction to Recursion
+
 
 # Day 19    `5th August 2024`
+> `Topics Covered` : Introduction to Recursion
+
+> `resources` : https://youtu.be/M2uO2nMT0Bk?si=BSO1_g_ST_8s0Wud
+
+> `Next Step` : Time and Space Complexity
 
 # Day 20    `6th August 2024`
+> `Topics Covered` :  Time and Space Complexity
+
+> `resources` : https://youtu.be/mV3wrLBbuuE?si=aR-54RajbfepSaK8
+
+> `Next Step` : Strings and StringBuilder in Java
+
 
 # Day 21    `7th August 2024`
 
