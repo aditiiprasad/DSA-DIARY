@@ -20,7 +20,7 @@
 > Find peak element. <a href="code/PeakElement.java">code</a>
 
 > `410` <img src="https://img.shields.io/badge/Hard-fc0505">
-> Split array Largest sum <a href="#">code</a>
+> Split array Largest sum <a href="code/SplitArray.java">code</a>
 
 > `744`  <img src="https://img.shields.io/badge/Easy-02f212">
 > Find smallest letter greater than target <a href="code/NextGreatestLetter.java">code</a> 
