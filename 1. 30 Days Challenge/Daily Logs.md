@@ -107,6 +107,8 @@
 
 # Day 10    `27th July 2024`
 > `Topics Covered` : Binary Search in 2D Arrays
+>  - [x] Searching in Matrix  <a href="code/Day 10/src/RowColMatrix.java">code</a>
+>  - [x] Sorted Matrix  <a href="code/Day 10/src/SortedMatrix.java">code</a>
 
 > `resources` : https://youtu.be/enI_KyGLYPo?si=zNLt90_AtXHDxMm2
 
