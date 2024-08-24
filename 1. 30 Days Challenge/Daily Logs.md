@@ -133,6 +133,8 @@
 
 # Day 15    `1st August 2024`
 > `Topics Covered` : Selection Sort Algorithm , Insertion Sort Algorithm
+>  - [x] Code for Selection Sort <a href="code/Day 15/src/Main.java">code</a>
+>  - [x]
 
 > `resources` : https://youtu.be/Nd4SCCIHFWk?si=THyv4wDiZ3RMgXBd , https://youtu.be/By_5-RRqVeE?si=KOgtBkvKqU3ka4pA
 
