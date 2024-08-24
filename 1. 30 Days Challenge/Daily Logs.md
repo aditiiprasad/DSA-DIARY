@@ -125,6 +125,7 @@
  
 # Day 14    `31st July 2024`
 > `Topics Covered` : Bubble Sort Algorithm
+>  - [x] Code for Buuble Sort  <a href="code/Day 14/src/Main.java">code</a>
 
 > `resources` : https://youtu.be/F5MZyqRp_IM?si=msamT4_L-jYgCoTh
 
