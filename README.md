@@ -2,6 +2,8 @@
  <img src="https://capsule-render.vercel.app/api?type=egg&height=150&color=0:069422,100:ecf542&text=DSA%20DIARY&fontAlign=48&fontAlignY=45&section=header&reversal=true&fontColor=033d13&fontSize=60"/>
 </p>
 
+<a href="https://wakatime.com/badge/user/1fc26c7a-896d-4495-8fa5-a34266fbb649/project/79f2a147-83a1-46b0-9345-3eb46eb81e95"><img src="https://wakatime.com/badge/user/1fc26c7a-896d-4495-8fa5-a34266fbb649/project/79f2a147-83a1-46b0-9345-3eb46eb81e95.svg" alt="wakatime"></a>
+
 > Welcome to my DSA Diary GitHub repository! This repository is dedicated to documenting my journey in mastering Data Structures and Algorithms (DSA). Here, you'll find a comprehensive collection of my daily progress, coding exercises, and reflections as I delve deeper into the world of DSA.
 
 # Files
