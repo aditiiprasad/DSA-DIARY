@@ -142,6 +142,8 @@
 
 # Day 16    `2nd August 2024`
 > `Topics Covered` : Cycle Sort 
+>  - [x] Code for Cyclic Sort <a href="code/Day 16/src/CyclicSort.java">code</a>
+>  - [x] Leetcode questions
 
 > `resources` : https://youtu.be/JfinxytTYFQ?si=XUfOypPB2_fmVdaR
 
