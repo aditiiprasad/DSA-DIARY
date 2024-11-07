@@ -114,14 +114,6 @@
 
 > `Next Step` : Bubble Sort Algorithm
 
-# Day 11    `28th July 2024`
- Got sick🤮,will be back soon.
-
-# Day 12    `29th July 2024`
- Got sick🤮,will be back soon.
-
-# Day 13    `30th July 2024`
- Got sick🤮,will be back soon.
  
 # Day 14    `31st July 2024`
 > `Topics Covered` : Bubble Sort Algorithm
@@ -143,7 +135,7 @@
 # Day 16    `2nd August 2024`
 > `Topics Covered` : Cycle Sort 
 >  - [x] Code for Cyclic Sort <a href="code/Day 16/src/CyclicSort.java">code</a>
->  - [x] Leetcode questions
+>  - [x] Leetcode questions <a href="code/Day 16/src/MissingNumber.java">268</a>
 
 > `resources` : https://youtu.be/JfinxytTYFQ?si=XUfOypPB2_fmVdaR
 
