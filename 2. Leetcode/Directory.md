@@ -16,6 +16,9 @@
 > `34` <img src="https://img.shields.io/badge/Medium-e69c09">
 > Find first and last position of element in sorted array . <a href="code/SearchRange.java">code</a>
 
+> `41` <img src="https://img.shields.io/badge/Hard-fc0505">
+> First missing Positive<a href="code/Missing.java">code</a>
+
 > `162` <img src="https://img.shields.io/badge/Medium-e69c09">
 > Find peak element. <a href="code/PeakElement.java">code</a>
 
