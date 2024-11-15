@@ -23,6 +23,7 @@ public class DisappearedNumber {
     }
      return ans;
     }
+
      void swap(int[] arr, int first, int second) {
         int temp = arr[first];
         arr[first] = arr[second];
