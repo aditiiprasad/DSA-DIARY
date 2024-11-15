@@ -19,6 +19,9 @@
 > `162` <img src="https://img.shields.io/badge/Medium-e69c09">
 > Find peak element. <a href="code/PeakElement.java">code</a>
 
+> `268`  <img src="https://img.shields.io/badge/Easy-02f212">
+>  Missing Number <a href="code/MissingNumber.java">code</a> 
+
 > `287` <img src="https://img.shields.io/badge/Medium-e69c09">
 > Find the duplicate number <a href="code/Duplicates.java">code</a>
 
@@ -34,11 +37,11 @@
 > `476` <img src="https://img.shields.io/badge/Easy-02f212">
 > Number Complement <a href="code/FindComplement.java">code</a>
 
-> `268`  <img src="https://img.shields.io/badge/Easy-02f212">
->  Missing Number <a href="code/MissingNumber.java">code</a> 
+> `645`  <img src="https://img.shields.io/badge/Easy-02f212">
+> Set Mismatch <a href="code/Mismatch.java">code</a>
 
 > `744`  <img src="https://img.shields.io/badge/Easy-02f212">
-> Find smallest letter greater than target <a href="code/NextGreatestLetter.java">code</a> 
+> Find smallest letter greater than target <a href="code/NextGreatestLetter.java">code</a>
 
 > `852` <img src="https://img.shields.io/badge/Medium-e69c09">
 > Peak Index in a mountain Array. <a href="code/Mountain.java">code</a> 
