@@ -19,6 +19,9 @@
 > `41` <img src="https://img.shields.io/badge/Hard-fc0505">
 > First missing Positive<a href="code/Missing.java">code</a>
 
+> `88`      <img src="https://img.shields.io/badge/Easy-02f212"> 
+> Merge Sorted Array. <a href="code/Merge.java">code</a>
+
 > `162` <img src="https://img.shields.io/badge/Medium-e69c09">
 > Find peak element. <a href="code/PeakElement.java">code</a>
 
