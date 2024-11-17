@@ -34,29 +34,6 @@ often with comments for clarity.
 </div>
 
 
-| Question Number | Difficulty Level Badge                      | Question and Link                                                                 |
-|-----------------|---------------------------------------------|-----------------------------------------------------------------------------------|
-| `1`             | ![Easy](https://img.shields.io/badge/Easy-02f212) | [Two Sum](2. Leetcode/code/TwoSum.java)                                           |
-| `33`            | ![Medium](https://img.shields.io/badge/Medium-e69c09) | [Search in Rotated Sorted Array](2. Leetcode/code/RBS.java)                       |
-| `34`            | ![Medium](https://img.shields.io/badge/Medium-e69c09) | [Find First and Last Position of Element in Sorted Array](2. Leetcode/code/SearchRange.java) |
-| `41`            | ![Hard](https://img.shields.io/badge/Hard-fc0505) | [First Missing Positive](2. Leetcode/code/Missing.java)                           |
-| `88`            | ![Easy](https://img.shields.io/badge/Easy-02f212) | [Merge Sorted Array](2. Leetcode/code/Merge.java)                                 |
-| `162`           | ![Medium](https://img.shields.io/badge/Medium-e69c09) | [Find Peak Element](2. Leetcode/code/PeakElement.java)                            |
-| `268`           | ![Easy](https://img.shields.io/badge/Easy-02f212) | [Missing Number](2. Leetcode/code/MissingNumber.java)                             |
-| `287`           | ![Medium](https://img.shields.io/badge/Medium-e69c09) | [Find the Duplicate Number](2. Leetcode/code/Duplicates.java)                     |
-| `410`           | ![Hard](https://img.shields.io/badge/Hard-fc0505) | [Split Array Largest Sum](2. Leetcode/code/SplitArray.java)                       |
-| `442`           | ![Medium](https://img.shields.io/badge/Medium-e69c09) | [Find All the Duplicates](2. Leetcode/code/AllDuplicates.java)                    |
-| `448`           | ![Easy](https://img.shields.io/badge/Easy-02f212) | [Find All Numbers Disappeared in an Array](2. Leetcode/code/DisappearedNumber.java) |
-| `476`           | ![Easy](https://img.shields.io/badge/Easy-02f212) | [Number Complement](2. Leetcode/code/FindComplement.java)                         |
-| `645`           | ![Easy](https://img.shields.io/badge/Easy-02f212) | [Set Mismatch](2. Leetcode/code/Mismatch.java)                                    |
-| `744`           | ![Easy](https://img.shields.io/badge/Easy-02f212) | [Find Smallest Letter Greater Than Target](2. Leetcode/code/NextGreatestLetter.java) |
-| `852`           | ![Medium](https://img.shields.io/badge/Medium-e69c09) | [Peak Index in a Mountain Array](2. Leetcode/code/Mountain.java)                  |
-| `1051`          | ![Easy](https://img.shields.io/badge/Easy-02f212) | [Height Checker](2. Leetcode/code/HeightChecker.java)                             |
-| `1095`          | ![Hard](https://img.shields.io/badge/Hard-fc0505) | [Find in Mountain Array](2. Leetcode/code/SearchInMountain.java)                  |
-| `1281`          | ![Easy](https://img.shields.io/badge/Easy-02f212) | [Subtract the Product and Sum of Digits of an Integer](2. Leetcode/code/SubProductSum.java) |
-| `1295`          | ![Easy](https://img.shields.io/badge/Easy-02f212) | [Find Numbers with Even Number of Digits](2. Leetcode/code/EvenDigits.java)       |
-| `1672`          | ![Easy](https://img.shields.io/badge/Easy-02f212) | [Richest Customer Wealth](2. Leetcode/code/MaxWealth.java)                        |
-
 
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="100" height="60" alt="LeetCode Logo" style="border-radius: 10px;" target="_main">](https://leetcode.com/aditiiprasad/) <span style="color:blue"><em>(Click on the logo to head over to my LeetCode profile!)</em></span>
