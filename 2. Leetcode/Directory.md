@@ -52,6 +52,12 @@
 > `852` <img src="https://img.shields.io/badge/Medium-e69c09">
 > Peak Index in a mountain Array. <a href="code/Mountain.java">code</a> 
 
+> `1051`   <img src="https://img.shields.io/badge/Easy-02f212"> 
+> Height Checker. <a href="code/HeightChecker.java">code</a> 
+
+> `1095`   <img src="https://img.shields.io/badge/Hard-fc0505">
+> Find in Mountain Array. <a href="code/SearchInMountain.java">code</a> 
+
 > `1281`  <img src="https://img.shields.io/badge/Easy-02f212"> 
 > Subtract the product and sum of Digits of an Integer. <a href="code/SubProductSum.java">code</a> 
 
@@ -61,8 +67,7 @@
 > `1672`   <img src="https://img.shields.io/badge/Easy-02f212"> 
 > Richest customer wealth. <a href="code/MaxWealth.java">code</a> 
 
-> `1095`   <img src="https://img.shields.io/badge/Hard-fc0505">
-> Find in Mountain Array. <a href="code/SearchInMountain.java">code</a> 
+
 
 
 
