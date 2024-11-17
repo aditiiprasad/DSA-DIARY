@@ -9,8 +9,8 @@
 
 | Question Number | Difficulty Level Badge                      | Question and Link                                                                 |
 |-----------------|---------------------------------------------|-----------------------------------------------------------------------------------|
-| 1               | ![Easy](https://img.shields.io/badge/Easy-02f212) | [Two Sum](code/TwoSum.java)                                                      |
-| 33              | ![Medium](https://img.shields.io/badge/Medium-e69c09) | [Search in Rotated Sorted Array](code/RBS.java)                                  |
+| `1`               | ![Easy](https://img.shields.io/badge/Easy-02f212) | [Two Sum](code/TwoSum.java)                                                      |
+| `33`              | ![Medium](https://img.shields.io/badge/Medium-e69c09) | [Search in Rotated Sorted Array](code/RBS.java)                                  |
 | 34              | ![Medium](https://img.shields.io/badge/Medium-e69c09) | [Find First and Last Position of Element in Sorted Array](code/SearchRange.java)  |
 | 41              | ![Hard](https://img.shields.io/badge/Hard-fc0505) | [First Missing Positive](code/Missing.java)                                      |
 | 88              | ![Easy](https://img.shields.io/badge/Easy-02f212) | [Merge Sorted Array](code/Merge.java)                                            |
