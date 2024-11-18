@@ -22,6 +22,7 @@
 | 448             | ![Easy](https://img.shields.io/badge/Easy-02f212) | [Find All Numbers Disappeared in an Array](code/DisappearedNumber.java)          |
 | 476             | ![Easy](https://img.shields.io/badge/Easy-02f212) | [Number Complement](code/FindComplement.java)                                    |
 | 645             | ![Easy](https://img.shields.io/badge/Easy-02f212) | [Set Mismatch](code/Mismatch.java)                                               |
+| 704            | ![Easy](https://img.shields.io/badge/Easy-02f212) | [Binary Search](code/BinarySearch.java)                                               |
 | 744             | ![Easy](https://img.shields.io/badge/Easy-02f212) | [Find Smallest Letter Greater Than Target](code/NextGreatestLetter.java)         |
 | 852             | ![Medium](https://img.shields.io/badge/Medium-e69c09) | [Peak Index in a Mountain Array](code/Mountain.java)                             |
 | 1051            | ![Easy](https://img.shields.io/badge/Easy-02f212) | [Height Checker](code/HeightChecker.java)                                        |
