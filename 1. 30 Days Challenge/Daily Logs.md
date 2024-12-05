@@ -144,6 +144,17 @@
 
 # Day 17    `3rd August 2024`
 > `Topics Covered` : Strings and StringBuilder in Java
+>  - [x] What is String?String Creation- string literal   <a href="code/Day 17/src/Intro.java">code</a>
+>  - [x] Internal Working of String,String Pooling,String Immutability.
+>  - [x] String Comparison: ==, String Creation: new keyword,String Comparison: .equals()  <a href="code/Day 17/src/Comparison.java">code</a>
+>  - [x] PrintStream Class,toString() Method <a href="code/Day 17/src/Output.java">code</a>
+>  - [x] Pretty Printing in Java,Format Specifiers <a href="code/Day 17/src/PrettyPrinting.java">code</a>
+>  - [x] <a href="code/Day 17/src/Operators.java">String Concatenation Operator</a>
+>  - [x] <a href="code/Day 17/src/Performance.java">String Performance</a>
+>  - [x] <a href="code/Day 17/src/SB.java">StringBuilder Class</a>
+>  - [x] <a href="code/Day 17/src/Methods.java">String Methods</a>
+>  - [x] <a href="code/Day 17/src/Palin.java">Palindrome Program</a>
+
 
 > `resources` : https://youtu.be/zL1DPZ0Ovlo?si=tVI8y16pR9kd21rb
 
