@@ -163,6 +163,7 @@
 
 # Day 18    `4th August 2024`
 > `Topics Covered` : Tricks
+>  - [x] <a href="code/Day 18/src/Pattern.java">Pattern Questions Trick</a>
 
 > `resources` : https://youtu.be/lsOOs5J8ycw?si=I8Yl1dp7VcawTPIO
 
