@@ -171,6 +171,13 @@
 
 # Day 19    `5th August 2024`
 > `Topics Covered` : Introduction to Recursion
+>  - [x] <a href="code/Day 19/src/Message.java">Message Program Example</a>
+>  - [x] <a href="code/Day 19/src/Main.java">Numbers Program Example</a>
+>  - [x] <a href="code/Day 19/src/NumbersExampleRecursion.java">Recursive Function for Number Program</a>
+>  - [x] Base Condition in Recursion,Use of Recursion,Visualising Recursion (Recursion Tree)
+>  - [x] <a href="code/Day 19/src/Fibo.java">Fibonacci Numbers</a>
+>  - [x] <a href="code/Day 19/src/BS.java">Binary Search</a>
+>  - [x] Types of Recurrence Relation
 
 > `resources` : https://youtu.be/M2uO2nMT0Bk?si=BSO1_g_ST_8s0Wud
 
