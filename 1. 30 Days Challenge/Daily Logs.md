@@ -185,10 +185,38 @@
 
 # Day 20    `6th August 2024`
 > `Topics Covered` :  Time and Space Complexity
+- [x] Introduction  
+- [x] Example  
+- [x] Time Complexity  
+- [x] Comparing Complexities  
+- [x] Procedure for Analysing Complexity  
+- [x] Big-Oh Notation  
+- [x] Big-Omega Notation  
+- [x] Big-Theta Notation  
+- [x] Little-Oh Notation  
+- [x] Little-Omega Notation  
+- [x] Space Complexity  
+- [x] Question  
+- [x] Complexity Analysis: Sorting Algorithms  
+- [x] Complexity Analysis: Recursive Programs  
+- [x] Types of Recurrence Relations  
+- [x] Divide-and-Conquer Recurrence Relation  
+- [x] Akra-Bazzi Theorem  
+- [x] Linear Recurrence Relation  
+- [x] Solving Homogeneous Linear Recurrence Relation  
+- [x] Q: Find nth Fibonacci Number using Golden Ratio  
+- [x] Q: Solve Recurrence Relation with Repeated Roots  
+- [x] Non-Homogeneous Linear Recurrence Relation  
+- [x] Solving Non-Homogeneous Linear Recurrence Relation  
+- [x] How to Guess a Particular Solution?  
+- [x] Example  
+- [x] NP-Complete Problems  
+- [x] Outro  
+
 
 > `resources` : https://youtu.be/mV3wrLBbuuE?si=aR-54RajbfepSaK8
 
-> `Next Step` : Strings and StringBuilder in Java
+> `Next Step` : Recursion - Level 1 Questions 
 
 
 # Day 21    `7th August 2024`
