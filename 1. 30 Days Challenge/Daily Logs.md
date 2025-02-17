@@ -185,33 +185,32 @@
 
 # Day 20    `6th August 2024`
 > `Topics Covered` :  Time and Space Complexity
-- [x] Introduction  
-- [x] Example  
-- [x] Time Complexity  
-- [x] Comparing Complexities  
-- [x] Procedure for Analysing Complexity  
-- [x] Big-Oh Notation  
-- [x] Big-Omega Notation  
-- [x] Big-Theta Notation  
-- [x] Little-Oh Notation  
-- [x] Little-Omega Notation  
-- [x] Space Complexity  
-- [x] Question  
-- [x] Complexity Analysis: Sorting Algorithms  
-- [x] Complexity Analysis: Recursive Programs  
-- [x] Types of Recurrence Relations  
-- [x] Divide-and-Conquer Recurrence Relation  
-- [x] Akra-Bazzi Theorem  
-- [x] Linear Recurrence Relation  
-- [x] Solving Homogeneous Linear Recurrence Relation  
-- [x] Q: Find nth Fibonacci Number using Golden Ratio  
-- [x] Q: Solve Recurrence Relation with Repeated Roots  
-- [x] Non-Homogeneous Linear Recurrence Relation  
-- [x] Solving Non-Homogeneous Linear Recurrence Relation  
-- [x] How to Guess a Particular Solution?  
-- [x] Example  
-- [x] NP-Complete Problems  
-- [x] Outro  
+> - [x] Introduction  
+> - [x] Example  
+> - [x] Time Complexity  
+> - [x] Comparing Complexities  
+> - [x] Procedure for Analysing Complexity  
+> - [x] Big-Oh Notation  
+> - [x] Big-Omega Notation  
+> - [x] Big-Theta Notation  
+> - [x] Little-Oh Notation  
+> - [x] Little-Omega Notation  
+> - [x] Space Complexity  
+> - [x] Question  
+> - [x] Complexity Analysis: Sorting Algorithms  
+> - [x] Complexity Analysis: Recursive Programs  
+> - [x] Types of Recurrence Relations  
+> - [x] Divide-and-Conquer Recurrence Relation  
+> - [x] Akra-Bazzi Theorem  
+> - [x] Linear Recurrence Relation  
+> - [x] Solving Homogeneous Linear Recurrence Relation  
+> - [x] Q: Find nth Fibonacci Number using Golden Ratio  
+> - [x] Q: Solve Recurrence Relation with Repeated Roots  
+> - [x] Non-Homogeneous Linear Recurrence Relation  
+> - [x] Solving Non-Homogeneous Linear Recurrence Relation  
+> - [x] How to Guess a Particular Solution?  
+> - [x] Example  
+> - [x] NP-Complete Problems  
 
 
 > `resources` : https://youtu.be/mV3wrLBbuuE?si=aR-54RajbfepSaK8
@@ -219,7 +218,22 @@
 > `Next Step` : Recursion - Level 1 Questions 
 
 
-# Day 21    `7th August 2024`
+# Day 21    `17th February 2025`
+> `Topics Covered` :  Recursion Level 1 Questions 
+> - [x] Q-01 : n to 1 , Q-02 : 1 to n    <a href="code/Day 21/src/Nto1.java">code</a>
+> - [x] Q-03 : Product of n to 1  <a href="code/Day 21/src/Fact.java">code</a>
+> - [x] Q-04 : Sum of n to 1  <a href="code/Day 21/src/Sum.java">code</a>
+> - [x] Q-05 : Sum of digits  <a href="code/Day 21/src/DigitSum.java">code</a>
+> - [x] Q-06 : Product of digits   <a href="code/Day 21/src/DigitProduct.java">code</a>
+> - [x] Concept : Passing Numbers  
+> - [x] Q-07 : Reverse a number  <a href="code/Day 21/src/Reverse.java">code</a>
+> - [x] Way-1 for Q-07  
+> - [x] Way-2 for Q-07  
+> - [x] Q-08 : Palindrome  <a href="code/Day 21/src/Palindrome.java">code</a>
+> - [x] Q-09 : Count Zeros   <a href="code/Day 21/src/CountZeros.java">code</a>
+> - [x] Q-10 : Count Steps   <a href="code/Day 21/src/Steps.java">code</a>
+
+
 
 # Day 22    `8th August 2024`
 
