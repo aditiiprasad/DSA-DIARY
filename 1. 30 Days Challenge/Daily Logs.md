@@ -245,6 +245,9 @@
 
 
 # Day 23    `04 March 2025`
+> `Topics Covered` :  Recursion - Pattern Questions + Bubble Sort + Selection Sort
+> - [x] Q1 : Triangle 1, Triangle 2, Bubble Sort, Selection Sort <a href="code/Day 23/src/Triangle.java">code</a>
+
 
 
 # Day 24    `10th August 2024`
