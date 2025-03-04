@@ -233,11 +233,19 @@
 > - [x] Q-09 : Count Zeros   <a href="code/Day 21/src/CountZeros.java">code</a>
 > - [x] Q-10 : Count Steps   <a href="code/Day 21/src/Steps.java">code</a>
 
+> `resources` : https://www.youtube.com/watch?v=JxILxTwHukM&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=27
+
+# Day 22    `03 March 2025`
+> `Topics Covered` :  Recursion Level 1 Questions 
+> - [x] Q1 : Sorted Array <a href="code/Day 22/src/Sorted.java">code</a>
+> - [x] Q2 : Linear Search , Linear Search (on multiple occurrences) , Return an ArrayList,  Return the list without passing the argument <a href="code/Day 22/src/Find.java">code</a>
+> - [x] Rotated Binary Search  <a href="code/Day 22/src/RBS.java">code</a>
+
+> `resources` : https://www.youtube.com/watch?v=sTdiMLom00U&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=29
 
 
-# Day 22    `8th August 2024`
+# Day 23    `04 March 2025`
 
-# Day 23    `9th August 2024`
 
 # Day 24    `10th August 2024`
 
