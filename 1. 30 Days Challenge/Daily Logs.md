@@ -251,8 +251,13 @@
 
 
 # Day 24    `10th August 2024`
+> `Topics Covered` : Merge Sort Using Recursion 
+> - [x] Theory + Complexity + Code <a href="code/Day 24/src/MergeSort.java">code</a>
 
 # Day 25    `11th August 2024`
+> `Topics Covered` : Quick Sort Using Recursion 
+> - [x] Theory + Complexity + Code <a href="code/Day 25/src/QuickSort.java">code</a>
+
 
 # Day 26    `12th August 2024`
 
