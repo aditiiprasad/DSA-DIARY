@@ -265,7 +265,11 @@
 > - [x] Subsets Introduction
 > - [x] Subsequences, Return an ArrayList of string, Subsequences with ASCII values <a href="code/Day 26/src/SubSeq.java">code</a>
 > - [x] <a href="code/Day 26/src/Ascii.java">Print ASCII value of a character</a>
-> - [x] Q8 : Iterative program to print subsequences, Q9 : Subsequences of a string with duplicate elements <a href="code/Day 26/src/SubSet.java">code</a>
+> - [x] Iterative program to print subsequences, Subsequences of a string with duplicate elements <a href="code/Day 26/src/SubSet.java">code</a>
+
+# Day 27    `10 July 2025`
+> `Topics Covered` : Recursion - Permutations (Theory + Code + Tips) 
+> - [x] Permutation using Recursion, Returning output as an ArrayList, Counting Number of Permutations <a href="code/Day 27/src/Permutations.java">code</a>
 
 
 
