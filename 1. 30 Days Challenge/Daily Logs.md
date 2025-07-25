@@ -271,6 +271,21 @@
 > `Topics Covered` : Recursion - Permutations (Theory + Code + Tips) 
 > - [x] Permutation using Recursion, Returning output as an ArrayList, Counting Number of Permutations <a href="code/Day 27/src/Permutations.java">code</a>
 
+# Day 28    `11 July 2025`
+> `Topics Covered` : Recursion Google, Amazon Questions: Dice Throw & Letter Combinations of a Phone Number 
+> - [x] Q1 : Letter Combinations of a Phone Number <a href="code/Day 28/src/PhonePad.java">code</a>
+> - [x] Q2 : Number of Dice Rolls with Target Sum <a href="code/Day 28/src/Dice.java">code</a>
+
+
+# Day 29    `22 July 2025`
+> `Topics Covered` : Backtracking Introduction + Maze Problems - Theory + Code 
+> - [x] Maze Problems
+> - [x] Q1 : Counting Paths , Q2 : Printing Paths, Q3 : Including Diagonal Paths, Q4 : Maze with Obstacles <a href="code/Day 29/src/Maze.java">code</a>
+> - [x] Backtracking Introduction
+> - [x] Q5 : Including All Paths, Q6 : Print Matrix and Paths <a href="code/Day 29/src/AllPaths.java">code</a>
+
+
+
 
 
 
