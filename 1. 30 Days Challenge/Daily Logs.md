@@ -284,6 +284,24 @@
 > - [x] Backtracking Introduction
 > - [x] Q5 : Including All Paths, Q6 : Print Matrix and Paths <a href="code/Day 29/src/AllPaths.java">code</a>
 
+# Day 30    `23 July 2025`
+> `Topics Covered` : N-Queens, N-Knights, Sudoku Solver (LeetCode) - Backtracking Questions
+> - [x] Q1 : N-Queens Problem <a href="code/Day 30/src/NQueens.java">code</a>
+> - [x] Q2 : N-Knights Problem <a href="code/Day 30/src/NKnights.java">code</a>
+> - [x] Q3 : Sudoku Solver Problem (LeetCode) <a href="code/Day 30/src/SudokuSolver.java>code</a>
+
+# Day 31    `24 July 2025`
+> `Topics Covered` : Linked List Tutorial - Singly + Doubly + Circular
+> - [x] Q1 : Singly LinkedList — Insertion, Display, Deletion, Common Doubts <a href="code/Day 31/src/LL.java">code</a>
+> - [x] Q2 : Doubly LinkedList — Insertion, Display, Reversal <a href="code/Day 31/src/DLL.java">code</a>
+> - [x] Q3 : Circular LinkedList — Insertion, Display, Deletion <a href="code/Day 31/src/CLL.java">code</a>
+
+
+
+
+
+
+
 
 
 
