@@ -324,6 +324,12 @@
 > - Q: Minimum Add to Make Parentheses Valid   
 > - Q: Minimum Insertions to Balance a Parentheses String <a href="code/Day 33/src/minvalid.java">code</a>
 
+# Day 35    `28 July 2025`
+
+> `Topics Covered` : Binary Trees, Binary Search Trees (BST)
+> - Implementation - Binary trees <a href="code/Day 34/src/Main.java">main</a>  , <a href="code/Day 34/src/BinaryTree.java">code</a>  
+> - Binary Search Trees <a href="code/Day 34/src/BST.java">code</a> 
+> - Traversals  <a href="code/Day 34/src/BinaryTree.java">code</a>
 
 
 
