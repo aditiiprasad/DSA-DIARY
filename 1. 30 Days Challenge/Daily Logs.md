@@ -296,6 +296,27 @@
 > - [x] Q2 : Doubly LinkedList — Insertion, Display, Reversal <a href="code/Day 31/src/DLL.java">code</a>
 > - [x] Q3 : Circular LinkedList — Insertion, Display, Deletion <a href="code/Day 31/src/CLL.java">code</a>
 
+# Day 32    `25 July 2025`
+> `Topics Covered` : Linked List Interview Questions 
+> - [x] Q1–Q17 : Recursive Insertion, Remove Duplicates, Merge Two Sorted Lists, LinkedList Cycle & Variants, Happy Number, Middle Node, Sort, Reverse (Recursive & Iterative), Reverse II, Palindrome Check, Reorder, Reverse k-Nodes, Reverse Alternate k-Nodes, Rotate LinkedList <a href="code/Day 32/src/InterviewQuestions.java">code</a> or <a href="code/Day 31/src/LL.java">code</a> or <a href="code/Day 32/src/MergeSort.java">Merge Two LL</a>
+
+# Day 33    `26 July 2025`
+> `Topics Covered` : Stacks & Queues 
+> - Introduction 
+> - Stack Data Structure <a href="code/Day 35/src/InBuiltExamples.java">In Built</a>,  <a href="code/Day 35/src/StackMain.java">custom</a>
+> - Queue Data Structure <a href="code/Day 35/src/InBuiltExamples.java">In Built</a>,  <a href="code/Day 35/src/QueueMain.java">custom</a>
+> - Custom Stack Implementation <a href="code/Day 35/src//CustomStack.java">code</a>
+> - Stack Exception Handling <a href="code/Day 35/src/StackException.java">code</a>
+> - Dynamic Stack Implementation <a href="code/Day 35/src/DynamicStack.java">code</a>
+> - Complexity Analysis (Stack)
+> - Custom Queue Implementation <a href="code/Day 35/src/CustomQueue.java">code</a>
+> - Complexity Analysis (Queue) 
+> - Circular Queue Implementation <a href="code/Day 35/src/CircularQueue.java">code</a>
+> - Dynamic Queue Implementation <a href="code/Day 35/src/DynamicQueue.java">code</a>
+
+
+
+
 
 
 
