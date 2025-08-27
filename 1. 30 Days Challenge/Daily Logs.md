@@ -331,6 +331,11 @@
 > - Binary Search Trees <a href="code/Day 34/src/BST.java">code</a> 
 > - Traversals  <a href="code/Day 34/src/BinaryTree.java">code</a>
 
+# Day 36     `29 July 2025`
+
+> `Topics Covered` : AVL Trees
+> - Implementation - AVL trees <a href="code/Day 36/src/AVL.java">Code</a>, <a href="code/Day 36/src/Main.java">main</a>
+
 
 
 
