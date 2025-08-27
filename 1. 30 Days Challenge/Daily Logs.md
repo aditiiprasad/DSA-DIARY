@@ -314,8 +314,15 @@
 > - Circular Queue Implementation <a href="code/Day 35/src/CircularQueue.java">code</a>
 > - Dynamic Queue Implementation <a href="code/Day 35/src/DynamicQueue.java">code</a>
 
+# Day 34    `27 July 2025`
 
-
+> `Topics Covered` : Stacks and Queues Interview Questions  
+> - Q: Implement Queue using Stacks <a href="code/Day 33/src/QueueUsingStack.java">code</a>  , <a href="code/Day 33/src/QueueUsingStackRemove.java">code</a>  
+> - Q: Game of Two Stacks <a href="code/Day 33/src/twoStacks.java">code</a>  
+> - Q: Largest Rectangle in Histogram <a href="code/Day 33/src/largestRectangleArea.java">code</a>  
+> - Q: Valid Parentheses <a href="code/Day 33/src/isValid.java">code</a>  
+> - Q: Minimum Add to Make Parentheses Valid   
+> - Q: Minimum Insertions to Balance a Parentheses String <a href="code/Day 33/src/minvalid.java">code</a>
 
 
 
